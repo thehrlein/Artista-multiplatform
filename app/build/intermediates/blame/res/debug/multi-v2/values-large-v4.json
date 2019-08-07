@@ -4,7 +4,24 @@
             "outputFile": "/Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/fc3d8c195f7c0cf5a09628de279a94cd/appcompat-1.0.2/res/values-large-v4/values-large-v4.xml",
+                    "source": "/Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a41453c2f6702cd4af78f324c709fa46/material-1.1.0-alpha09/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,177",
+                        "endColumns": "121,133",
+                        "endOffsets": "172,306"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "752,874",
+                        "endColumns": "121,133",
+                        "endOffsets": "869,1003"
+                    }
+                },
+                {
+                    "source": "/Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/42cb1afe3bc48d96034ad481e0d65bc0/appcompat-1.1.0-rc01/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
