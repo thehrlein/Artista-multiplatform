@@ -18,22 +18,28 @@ import model.searchartist.ArtistResponse
 import model.searchartist.ArtistResult
 import utils.Constants
 import utils.Urls
+import kotlin.reflect.typeOf
 
 /**
  * Created by tobias.hehrlein on 2019-07-22.
  */
 class NetworkManager  {
 
+    @OptIn(ExperimentalStdlibApi::class)
     var client : HttpClient = createApiClient()
 
+    @ExperimentalStdlibApi
     private fun createApiClient() : HttpClient {
         return HttpClient {
             install(JsonFeature) {
-                serializer = KotlinxSerializer(Json.nonstrict).apply {
-                    setMapper(ArtistResponse::class, ArtistResponse.serializer())
-                    setMapper(ArtistResult::class, ArtistResult.serializer())
-                    setMapper(ArtistMatches::class, ArtistMatches.serializer())
-                    setMapper(Artist::class, Artist.serializer())
+                serializer = KotlinxSerializer(Json {
+                    isLenient = true
+                    ignoreUnknownKeys = true
+                }).apply {
+                    typeOf<ArtistResponse>()
+                    typeOf<ArtistResult>()
+                    typeOf<ArtistMatches>()
+                    typeOf<Artist>()
                 }
             }
             install(Logging) {
@@ -49,7 +55,6 @@ class NetworkManager  {
     }
 
     suspend fun searchArtist(artist: String) : ArtistResponse {
-
         return client.get {
             url {
                 takeFrom(Urls.BASE_LAST_FM_URL)

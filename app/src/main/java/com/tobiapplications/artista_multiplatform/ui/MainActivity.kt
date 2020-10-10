@@ -16,7 +16,9 @@ import ui.artist.ArtistView
 
 class MainActivity : AppCompatActivity(), ArtistView {
 
-    private val presenter by lazy { ArtistPresenter(Dispatchers.Main, this) }
+    private val presenter by lazy {
+        ArtistPresenter(Dispatchers.Main, this)
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -30,7 +32,7 @@ class MainActivity : AppCompatActivity(), ArtistView {
     }
 
     override fun setArtists(response: ArtistResponse) {
-        artistList.text = response.results.artistMatsches.artist.joinToString(separator = "\n") { it.name }
+        artistList.text = response.results.artistMatches.artist.joinToString(separator = "\n") { it.name }
     }
 
     override fun showProgressIndicator(show: Boolean) {

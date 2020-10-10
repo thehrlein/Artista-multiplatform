@@ -1,1 +1,6 @@
-[]
+{
+  "version": 1,
+  "applicationId": "com.tobiapplications.artista_multiplatform",
+  "variantType": "BASE_APK",
+  "elements": []
+}

@@ -1,181 +1,202 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
-MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a41453c2f6702cd4af78f324c709fa46/material-1.1.0-alpha09/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/42cb1afe3bc48d96034ad481e0d65bc0/appcompat-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core-ktx:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/7cbae03712de5a7b0491b49c92e3a6eb/core-ktx-1.2.0-alpha02/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3f04fabaf6bc212c122fe49c9d217e26/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a4baa2cceab096ee2431560a0e562631/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e036d26be7588c6c2c8036b6f2da9838/anko-common-0.10.8/AndroidManifest.xml:2:1-13:12
-MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/cd35651602059f7e08723fbadf2525fa/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/85940a548fdd9b2aa36653b8627eb69a/anko-commons-0.10.8/AndroidManifest.xml:2:1-13:12
-MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5f3e4df6ee3641ea0939d4b26f10952d/jetified-commons-base-0.10.8/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/467a18a64920fe3251e6496e177591cd/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/1ec1ec99ac001f000c90faa904d24537/viewpager2-1.0.0-beta02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4d3a2b6e2ba24987a992ae64ff0a08e7/fragment-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/9f31aa140cf56ed9b43041ad42d7270c/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3353e7d52cc60ac8b7dcc3256cebda5a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e650b2bc9802dcb6a282c13844d1933d/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.0.1] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/1f55bf0b76c6e27cc257821ebb9960b9/transition-1.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/994dad48efe0e53c15168b49e00c47d6/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/08bc225f9f6872b7c6e32c39c607b115/vectordrawable-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4c05a7eca90d467bd82f2e2ac9569ac8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/8d20e11803b2ffa95ef5928323071c9c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e892af4d98e6f7b79b8b3078bc82e167/activity-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/08299535815a07f3e65027f445dc9db6/recyclerview-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a4aaa12074eb1d281b08422607b00e13/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3a78857ae31f459e98ebb2589c7f19b2/core-1.2.0-alpha02/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4c25237e7cd60d9902e1852cf6e5a8bd/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/236b11cd582e79e354c929738f179791/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/2676931d8350638ec6f447898986750a/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/6226464c87bc5c37489da32567164852/savedstate-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5035d93ac83edf968442b0cf09e4a515/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5ded6e89e717460b2b0c8226118e57dd/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/42a37d2ef111d5fc07c6d15e95a7ba75/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/abc080d43d06c7179932c2aa19c21727/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.core:core-ktx:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/ad62cfebb980dfc349a9e844103348ed/jetified-core-ktx-1.5.0-alpha04/AndroidManifest.xml:2:1-9:12
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7e405135eaf6d353d5913b3174c2f454/jetified-anko-common-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/137b7273c78342ed4d3ffb1364ab62fa/jetified-anko-commons-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/927e6e40ce02d2bd9fc8e6e7d04041d5/jetified-commons-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/9914a16a241d5f7913409cd86989bec4/material-1.3.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/a3c9b3f7769e173ba6d627343f734bbb/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/75369da7f468aa9e28d7232159c907c6/appcompat-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/d23cabcfe2d5886654d204f1de2e8cf4/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/5fe52851eebdffffda4b0f88f1c62d94/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/facf6d9baef6783d6d30f6612edb8259/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/54e05712a7c20425a0fc7c988ca0dcd4/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/fa9fb41010f6f6483d5823fea4e08618/fragment-1.3.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/59804cf0271a3f1db26716206fadfe15/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7e53698f6dce32f06cae5cfbcd84fac7/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/569ac7577cc04b423c1f786cc2d8eb59/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7d660a114d57089d24b1fe3ae918c852/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/4e551e481f0d60780a6d386f03df4705/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/431ffada4ecfd30d572ee7e1e778c3d3/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1573e6aa41c8b4a294286d4eb5e7bf96/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/e35dc785122bf76ec127c48b804272a3/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/574d8cfaabbb689db89567341ceaffad/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/2f93ac825e793f04170cd1ea663ca0d3/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/56bdea7cc5e84a4610c9a18ed1a829d0/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/f3eb77787fe666a4c10d53ae3d468ffd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/e2de6a8b45f0916deca19297fbe8dd8d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/b15d3618e6983df950ef3968fdd81382/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/9db92d3eee6e704355ef6bda39f041bf/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1a086e5d5180e427c8ef2730cb7c4db6/core-1.5.0-alpha04/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/81db724b43ea76f1450d66f9dc4c10ef/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/a14ee9ad98b20d407b3b7c754e0e6cc9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/bebc68a51d0a43cd7484c78a98058a08/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/c134ae68db2e00dc330cb87b3618e1d3/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/2b2b66314e369c546f3bd45d6f9b7db5/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/dfbb4ebf8b307cf08019506b84a97e7b/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/6eb368f24ee9f6035498915da5991d5a/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/c4578be4961f5b7b8439844c3424a404/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/d6fc110ec0f521e2cf757e2387b28d35/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/0be0d5557a1b0c2211d3de6f2e39f22f/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/8d03614e0dbd3a9c48a3ad056c826527/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:3:5-57
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:5:5-66
+ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:5:5-66
 	android:name
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:7:5-21:19
-MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a41453c2f6702cd4af78f324c709fa46/material-1.1.0-alpha09/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a41453c2f6702cd4af78f324c709fa46/material-1.1.0-alpha09/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3f04fabaf6bc212c122fe49c9d217e26/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3f04fabaf6bc212c122fe49c9d217e26/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e036d26be7588c6c2c8036b6f2da9838/anko-common-0.10.8/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e036d26be7588c6c2c8036b6f2da9838/anko-common-0.10.8/AndroidManifest.xml:11:5-20
-MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/cd35651602059f7e08723fbadf2525fa/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
-MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/cd35651602059f7e08723fbadf2525fa/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/85940a548fdd9b2aa36653b8627eb69a/anko-commons-0.10.8/AndroidManifest.xml:11:5-20
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/85940a548fdd9b2aa36653b8627eb69a/anko-commons-0.10.8/AndroidManifest.xml:11:5-20
-MERGED from [androidx.core:core:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3a78857ae31f459e98ebb2589c7f19b2/core-1.2.0-alpha02/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3a78857ae31f459e98ebb2589c7f19b2/core-1.2.0-alpha02/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4c25237e7cd60d9902e1852cf6e5a8bd/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4c25237e7cd60d9902e1852cf6e5a8bd/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7e405135eaf6d353d5913b3174c2f454/jetified-anko-common-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7e405135eaf6d353d5913b3174c2f454/jetified-anko-common-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/137b7273c78342ed4d3ffb1364ab62fa/jetified-anko-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/137b7273c78342ed4d3ffb1364ab62fa/jetified-anko-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/9914a16a241d5f7913409cd86989bec4/material-1.3.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/9914a16a241d5f7913409cd86989bec4/material-1.3.0-alpha03/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/a3c9b3f7769e173ba6d627343f734bbb/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/a3c9b3f7769e173ba6d627343f734bbb/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/5fe52851eebdffffda4b0f88f1c62d94/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/5fe52851eebdffffda4b0f88f1c62d94/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1a086e5d5180e427c8ef2730cb7c4db6/core-1.5.0-alpha04/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1a086e5d5180e427c8ef2730cb7c4db6/core-1.5.0-alpha04/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/bebc68a51d0a43cd7484c78a98058a08/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/bebc68a51d0a43cd7484c78a98058a08/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3a78857ae31f459e98ebb2589c7f19b2/core-1.2.0-alpha02/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1a086e5d5180e427c8ef2730cb7c4db6/core-1.5.0-alpha04/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.tobiapplications.artista_multiplatform.ui.MainActivity
-ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:14:19-50
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:14:19-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a41453c2f6702cd4af78f324c709fa46/material-1.1.0-alpha09/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a41453c2f6702cd4af78f324c709fa46/material-1.1.0-alpha09/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/42cb1afe3bc48d96034ad481e0d65bc0/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/42cb1afe3bc48d96034ad481e0d65bc0/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core-ktx:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/7cbae03712de5a7b0491b49c92e3a6eb/core-ktx-1.2.0-alpha02/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/7cbae03712de5a7b0491b49c92e3a6eb/core-ktx-1.2.0-alpha02/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3f04fabaf6bc212c122fe49c9d217e26/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3f04fabaf6bc212c122fe49c9d217e26/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a4baa2cceab096ee2431560a0e562631/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a4baa2cceab096ee2431560a0e562631/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e036d26be7588c6c2c8036b6f2da9838/anko-common-0.10.8/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e036d26be7588c6c2c8036b6f2da9838/anko-common-0.10.8/AndroidManifest.xml:7:5-9:41
-MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/cd35651602059f7e08723fbadf2525fa/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
-MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/cd35651602059f7e08723fbadf2525fa/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/85940a548fdd9b2aa36653b8627eb69a/anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/85940a548fdd9b2aa36653b8627eb69a/anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5f3e4df6ee3641ea0939d4b26f10952d/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
-MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5f3e4df6ee3641ea0939d4b26f10952d/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/467a18a64920fe3251e6496e177591cd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/467a18a64920fe3251e6496e177591cd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/1ec1ec99ac001f000c90faa904d24537/viewpager2-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/1ec1ec99ac001f000c90faa904d24537/viewpager2-1.0.0-beta02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4d3a2b6e2ba24987a992ae64ff0a08e7/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4d3a2b6e2ba24987a992ae64ff0a08e7/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/9f31aa140cf56ed9b43041ad42d7270c/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/9f31aa140cf56ed9b43041ad42d7270c/appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3353e7d52cc60ac8b7dcc3256cebda5a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3353e7d52cc60ac8b7dcc3256cebda5a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e650b2bc9802dcb6a282c13844d1933d/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e650b2bc9802dcb6a282c13844d1933d/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.0.1] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/1f55bf0b76c6e27cc257821ebb9960b9/transition-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/1f55bf0b76c6e27cc257821ebb9960b9/transition-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/994dad48efe0e53c15168b49e00c47d6/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/994dad48efe0e53c15168b49e00c47d6/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/08bc225f9f6872b7c6e32c39c607b115/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/08bc225f9f6872b7c6e32c39c607b115/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4c05a7eca90d467bd82f2e2ac9569ac8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4c05a7eca90d467bd82f2e2ac9569ac8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/8d20e11803b2ffa95ef5928323071c9c/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/8d20e11803b2ffa95ef5928323071c9c/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e892af4d98e6f7b79b8b3078bc82e167/activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/e892af4d98e6f7b79b8b3078bc82e167/activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/08299535815a07f3e65027f445dc9db6/recyclerview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/08299535815a07f3e65027f445dc9db6/recyclerview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a4aaa12074eb1d281b08422607b00e13/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/a4aaa12074eb1d281b08422607b00e13/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3a78857ae31f459e98ebb2589c7f19b2/core-1.2.0-alpha02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.2.0-alpha02] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/3a78857ae31f459e98ebb2589c7f19b2/core-1.2.0-alpha02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4c25237e7cd60d9902e1852cf6e5a8bd/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/4c25237e7cd60d9902e1852cf6e5a8bd/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/236b11cd582e79e354c929738f179791/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/236b11cd582e79e354c929738f179791/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/2676931d8350638ec6f447898986750a/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/2676931d8350638ec6f447898986750a/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/6226464c87bc5c37489da32567164852/savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/6226464c87bc5c37489da32567164852/savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5035d93ac83edf968442b0cf09e4a515/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5035d93ac83edf968442b0cf09e4a515/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5ded6e89e717460b2b0c8226118e57dd/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/5ded6e89e717460b2b0c8226118e57dd/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/42a37d2ef111d5fc07c6d15e95a7ba75/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/42a37d2ef111d5fc07c6d15e95a7ba75/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/abc080d43d06c7179932c2aa19c21727/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tobias.hehrlein/.gradle/caches/transforms-2/files-2.1/abc080d43d06c7179932c2aa19c21727/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/ad62cfebb980dfc349a9e844103348ed/jetified-core-ktx-1.5.0-alpha04/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/ad62cfebb980dfc349a9e844103348ed/jetified-core-ktx-1.5.0-alpha04/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7e405135eaf6d353d5913b3174c2f454/jetified-anko-common-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7e405135eaf6d353d5913b3174c2f454/jetified-anko-common-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/137b7273c78342ed4d3ffb1364ab62fa/jetified-anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/137b7273c78342ed4d3ffb1364ab62fa/jetified-anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/927e6e40ce02d2bd9fc8e6e7d04041d5/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/927e6e40ce02d2bd9fc8e6e7d04041d5/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/9914a16a241d5f7913409cd86989bec4/material-1.3.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-alpha03] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/9914a16a241d5f7913409cd86989bec4/material-1.3.0-alpha03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/a3c9b3f7769e173ba6d627343f734bbb/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/a3c9b3f7769e173ba6d627343f734bbb/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/75369da7f468aa9e28d7232159c907c6/appcompat-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha02] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/75369da7f468aa9e28d7232159c907c6/appcompat-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/d23cabcfe2d5886654d204f1de2e8cf4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/d23cabcfe2d5886654d204f1de2e8cf4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/5fe52851eebdffffda4b0f88f1c62d94/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/5fe52851eebdffffda4b0f88f1c62d94/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/facf6d9baef6783d6d30f6612edb8259/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/facf6d9baef6783d6d30f6612edb8259/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/54e05712a7c20425a0fc7c988ca0dcd4/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/54e05712a7c20425a0fc7c988ca0dcd4/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/fa9fb41010f6f6483d5823fea4e08618/fragment-1.3.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha08] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/fa9fb41010f6f6483d5823fea4e08618/fragment-1.3.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/59804cf0271a3f1db26716206fadfe15/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha08] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/59804cf0271a3f1db26716206fadfe15/jetified-activity-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7e53698f6dce32f06cae5cfbcd84fac7/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha02] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7e53698f6dce32f06cae5cfbcd84fac7/jetified-appcompat-resources-1.3.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/569ac7577cc04b423c1f786cc2d8eb59/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/569ac7577cc04b423c1f786cc2d8eb59/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7d660a114d57089d24b1fe3ae918c852/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/7d660a114d57089d24b1fe3ae918c852/jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/4e551e481f0d60780a6d386f03df4705/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/4e551e481f0d60780a6d386f03df4705/jetified-savedstate-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/431ffada4ecfd30d572ee7e1e778c3d3/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/431ffada4ecfd30d572ee7e1e778c3d3/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1573e6aa41c8b4a294286d4eb5e7bf96/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1573e6aa41c8b4a294286d4eb5e7bf96/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/e35dc785122bf76ec127c48b804272a3/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/e35dc785122bf76ec127c48b804272a3/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/574d8cfaabbb689db89567341ceaffad/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/574d8cfaabbb689db89567341ceaffad/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/2f93ac825e793f04170cd1ea663ca0d3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/2f93ac825e793f04170cd1ea663ca0d3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/56bdea7cc5e84a4610c9a18ed1a829d0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/56bdea7cc5e84a4610c9a18ed1a829d0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/f3eb77787fe666a4c10d53ae3d468ffd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/f3eb77787fe666a4c10d53ae3d468ffd/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/e2de6a8b45f0916deca19297fbe8dd8d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/e2de6a8b45f0916deca19297fbe8dd8d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/b15d3618e6983df950ef3968fdd81382/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/b15d3618e6983df950ef3968fdd81382/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/9db92d3eee6e704355ef6bda39f041bf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/9db92d3eee6e704355ef6bda39f041bf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1a086e5d5180e427c8ef2730cb7c4db6/core-1.5.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha04] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/1a086e5d5180e427c8ef2730cb7c4db6/core-1.5.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/81db724b43ea76f1450d66f9dc4c10ef/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/81db724b43ea76f1450d66f9dc4c10ef/lifecycle-runtime-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/a14ee9ad98b20d407b3b7c754e0e6cc9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/a14ee9ad98b20d407b3b7c754e0e6cc9/lifecycle-viewmodel-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/bebc68a51d0a43cd7484c78a98058a08/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/bebc68a51d0a43cd7484c78a98058a08/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/c134ae68db2e00dc330cb87b3618e1d3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/c134ae68db2e00dc330cb87b3618e1d3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/2b2b66314e369c546f3bd45d6f9b7db5/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha07] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/2b2b66314e369c546f3bd45d6f9b7db5/lifecycle-livedata-core-2.3.0-alpha07/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/dfbb4ebf8b307cf08019506b84a97e7b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/dfbb4ebf8b307cf08019506b84a97e7b/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/6eb368f24ee9f6035498915da5991d5a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/6eb368f24ee9f6035498915da5991d5a/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/c4578be4961f5b7b8439844c3424a404/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/c4578be4961f5b7b8439844c3424a404/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/d6fc110ec0f521e2cf757e2387b28d35/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/d6fc110ec0f521e2cf757e2387b28d35/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/0be0d5557a1b0c2211d3de6f2e39f22f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/0be0d5557a1b0c2211d3de6f2e39f22f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/8d03614e0dbd3a9c48a3ad056c826527/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/tobiashehrlein/.gradle/caches/transforms-2/files-2.1/8d03614e0dbd3a9c48a3ad056c826527/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tobias.hehrlein/StudioProjects/Others/Artistamultiplatform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiashehrlein/AndroidStudioProjects/Other/private/Artista-multiplatform/app/src/main/AndroidManifest.xml
